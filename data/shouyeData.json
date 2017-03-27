@@ -1,0 +1,37 @@
+{
+    "date": "2017-03-09",
+    "toast": "",
+    "new_recommend_count_str": "",
+    "recommend_feeds": [
+        {
+            "source_cn": "",
+            "layout": 1,
+            "itemtit":"初心-CXB1",
+            "xkimgUrl":"http://localhost/images/icon2_03.png",
+            "xkimgflg":true,
+            "nhyuqi":"12",
+            "qixian":"28天",
+            "qitou":"100元"
+        },
+      {
+        "source_cn": "",
+        "layout": 1,
+        "itemtit":"初心-CXB2",
+        "xkimgUrl":"http://localhost/images/icon2_03.png",
+        "xkimgflg":false,
+        "nhyuqi":"12",
+        "qixian":"38天",
+        "qitou":"10元"
+      },
+      {
+        "source_cn": "",
+        "layout": 1,
+        "itemtit":"初心-CXB3",
+        "xkimgUrl":"http://localhost/images/icon2_03.png",
+        "xkimgflg":false,
+        "nhyuqi":"20",
+        "qixian":"50天",
+        "qitou":"1000元"
+      }
+    ]
+}
