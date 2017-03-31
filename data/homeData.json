@@ -173,12 +173,12 @@
     }
   ],
   "commedimg":{
-    "xkimgUrl":"http://localhost/images/icon2_03.png",
-    "qian":"http://localhost/images/icontouzi_03.png",
+    "xkimgUrl":"https://github.com/xiaofeide/gitcon/blob/master/images/icon2_03.png",
+    "qian":"https://github.com/xiaofeide/gitcon/blob/master/images/icontouzi_03.png",
     "swiperimg":[
-        "http://localhost/images/IMG_0147_02.jpg",
-        "http://localhost/images/IMG_0147_02.jpg",
-        "http://localhost/images/IMG_0147_02.jpg"
+        "https://github.com/xiaofeide/gitcon/blob/master/images/IMG_0147_02.jpg",
+        "https://github.com/xiaofeide/gitcon/blob/master/images/IMG_0147_02.jpg",
+        "https://github.com/xiaofeide/gitcon/blob/master/images/IMG_0147_02.jpg"
     ]
   }
 }
