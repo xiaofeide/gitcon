@@ -173,12 +173,12 @@
     }
   ],
   "commedimg":{
-    "xkimgUrl":"https://github.com/xiaofeide/gitcon/blob/master/images/icon2_03.png",
-    "qian":"https://github.com/xiaofeide/gitcon/blob/master/images/icontouzi_03.png",
+    "xkimgUrl":"https://raw.githubusercontent.com/xiaofeide/gitcon/master/images/icon2_03.png",
+    "qian":"https://raw.githubusercontent.com/xiaofeide/gitcon/master/images/icontouzi_03.png",
     "swiperimg":[
-        "https://github.com/xiaofeide/gitcon/blob/master/images/IMG_0147_02.jpg",
-        "https://github.com/xiaofeide/gitcon/blob/master/images/IMG_0147_02.jpg",
-        "https://github.com/xiaofeide/gitcon/blob/master/images/IMG_0147_02.jpg"
+        "https://raw.githubusercontent.com/xiaofeide/gitcon/master/images/IMG_0147_02.jpg",
+        "https://raw.githubusercontent.com/xiaofeide/gitcon/master/images/IMG_0147_02.jpg",
+        "https://raw.githubusercontent.com/xiaofeide/gitcon/master/images/IMG_0147_02.jpg"
     ]
   }
 }
