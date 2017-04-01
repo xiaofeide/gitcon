@@ -9,5 +9,9 @@
         "zongshouyi":"432"
     },
     "anquan":3,
-    "phone":13652153572
+    "phone":13652153572,
+    "password":{
+        "one":12345,
+        "two":12345
+    }
 }
