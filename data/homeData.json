@@ -182,5 +182,11 @@
         "https://raw.githubusercontent.com/xiaofeide/gitcon/master/images/58c8e70479c2f.jpg",
         "https://raw.githubusercontent.com/xiaofeide/gitcon/master/images/58dc78f769b6f.png"
     ]
-  }
+  },
+  "huodong":[
+    {"tit":"清明节","url":"https://raw.githubusercontent.com/xiaofeide/gitcon/master/images/58ddf2f0d8446.jpg"},
+    {"tit":"扫尾相投","url":"https://raw.githubusercontent.com/xiaofeide/gitcon/master/images/584129f030da1.jpg"},
+    {"tit":"喜浇幸运树，收货幸运果","url":"https://raw.githubusercontent.com/xiaofeide/gitcon/master/images/58c8e70479c2f.jpg"},
+    {"tit":"现金红包来袭","url":"https://raw.githubusercontent.com/xiaofeide/gitcon/master/images/58c24c2772705.jpg"}
+  ]
 }
