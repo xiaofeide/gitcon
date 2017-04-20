@@ -1,0 +1,68 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+p,
+input {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+input[type=submit],
+input[type=reset],
+input[type=button]{
+    filter:chroma(color=#000000);
+}
+img {
+    border: none;
+}
+input {
+    outline: none;
+}
+textarea{
+    outline: none;
+    resize: none;
+}
+a {
+  text-decoration: none;
+}
+button {
+    cursor: pointer;
+    outline: none;
+    filter:chroma(color=#000000);
+}
+* {
+    font-family: "Microsoft YaHei", Arial;
+    font-size: 12px;
+    box-sizing: border-box;
+}
+i {
+    font-style: normal;
+}
+.clear:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.dis-block {
+    display: block;
+}
+.dis-none {
+    display: none;
+}
+body,html{
+	width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.yd-fleft{
+	float:left;
+}
+.yd-fright{
+	float:right;
+}
